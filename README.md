@@ -1,8 +1,8 @@
 # Coffee Sales Performance Dashboard
 ## A comprehensive Power BI report analyzing sales trends, product performance, and regional growth for a retail coffee chain.
 
-Live Preview / Screenshots
-(Pro-tip: If you have a Power BI Service "Publish to Web" link, put it here!)
+## Live Preview 
+[**Click here to view the live interactive report**](https://app.powerbi.com/groups/me/reports/0337d62d-f611-4640-825f-b04366bff1b1/733ff9d40d5ae48c9cb0?experience=power-bi)
 
 ## Key Business Questions Addressed
 Product Optimization: Which coffee blends contribute to 80% of the revenue (Pareto Analysis)?
